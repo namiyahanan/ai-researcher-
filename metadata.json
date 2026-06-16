@@ -1,0 +1,5 @@
+{
+  "name": "AI Research Assistant",
+  "description": "Analyze research papers from text or images and get structured JSON summaries.",
+  "requestFramePermissions": []
+}
